@@ -1,0 +1,9 @@
+mple WordPress plugin that we can build on in future tutorials.
+
+To begin with create a folder in your wp-content/plugins/ folder called helloworld.
+
+Next create a file in a text editor called helloword.php.
+
+Add the following lines of code to the helloword.php file…
+
+<?php
